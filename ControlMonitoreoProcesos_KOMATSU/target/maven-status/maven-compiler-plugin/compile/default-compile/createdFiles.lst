@@ -1,0 +1,12 @@
+komatsu\corp\procesos\model\dao\OrdenServicioDAO.class
+komatsu\corp\procesos\model\dto\ProcesoDTO.class
+komatsu\corp\procesos\model\dao\UsuarioDAO.class
+komatsu\corp\procesos\controller\servlets\FinalizarInProcessServlet.class
+komatsu\corp\procesos\controller\servlets\IniciarToDoServlet.class
+komatsu\corp\procesos\config\Conexion.class
+komatsu\corp\procesos\model\dto\UsuarioDTO.class
+komatsu\corp\procesos\model\entities\OrdenServicio.class
+komatsu\corp\procesos\model\entities\Usuario.class
+komatsu\corp\procesos\model\entities\Proceso.class
+komatsu\corp\procesos\model\dao\ProcesoDAO.class
+komatsu\corp\procesos\model\dto\OrdenServicioDTO.class

@@ -1,0 +1,14 @@
+D:\Universidad\Ing. de Sistemas\11 CURSOS NUEVOS\KOMATSU\Project\ControlMonitoreoProcesos_KOMATSU\src\main\java\komatsu\corp\procesos\controller\servlets\ReprogramarProcessServlet.java
+D:\Universidad\Ing. de Sistemas\11 CURSOS NUEVOS\KOMATSU\Project\ControlMonitoreoProcesos_KOMATSU\src\main\java\komatsu\corp\procesos\model\dto\UsuarioDTO.java
+D:\Universidad\Ing. de Sistemas\11 CURSOS NUEVOS\KOMATSU\Project\ControlMonitoreoProcesos_KOMATSU\src\main\java\komatsu\corp\procesos\config\Conexion.java
+D:\Universidad\Ing. de Sistemas\11 CURSOS NUEVOS\KOMATSU\Project\ControlMonitoreoProcesos_KOMATSU\src\main\java\komatsu\corp\procesos\model\dao\ProcesoDAO.java
+D:\Universidad\Ing. de Sistemas\11 CURSOS NUEVOS\KOMATSU\Project\ControlMonitoreoProcesos_KOMATSU\src\main\java\komatsu\corp\procesos\model\entities\OrdenServicio.java
+D:\Universidad\Ing. de Sistemas\11 CURSOS NUEVOS\KOMATSU\Project\ControlMonitoreoProcesos_KOMATSU\src\main\java\komatsu\corp\procesos\model\entities\Proceso.java
+D:\Universidad\Ing. de Sistemas\11 CURSOS NUEVOS\KOMATSU\Project\ControlMonitoreoProcesos_KOMATSU\src\main\java\komatsu\corp\procesos\controller\servlets\PararInProcessUnplannedServlet.java
+D:\Universidad\Ing. de Sistemas\11 CURSOS NUEVOS\KOMATSU\Project\ControlMonitoreoProcesos_KOMATSU\src\main\java\komatsu\corp\procesos\controller\servlets\FinalizarInProcessServlet.java
+D:\Universidad\Ing. de Sistemas\11 CURSOS NUEVOS\KOMATSU\Project\ControlMonitoreoProcesos_KOMATSU\src\main\java\komatsu\corp\procesos\model\dao\UsuarioDAO.java
+D:\Universidad\Ing. de Sistemas\11 CURSOS NUEVOS\KOMATSU\Project\ControlMonitoreoProcesos_KOMATSU\src\main\java\komatsu\corp\procesos\model\entities\Usuario.java
+D:\Universidad\Ing. de Sistemas\11 CURSOS NUEVOS\KOMATSU\Project\ControlMonitoreoProcesos_KOMATSU\src\main\java\komatsu\corp\procesos\model\dto\ProcesoDTO.java
+D:\Universidad\Ing. de Sistemas\11 CURSOS NUEVOS\KOMATSU\Project\ControlMonitoreoProcesos_KOMATSU\src\main\java\komatsu\corp\procesos\model\dto\OrdenServicioDTO.java
+D:\Universidad\Ing. de Sistemas\11 CURSOS NUEVOS\KOMATSU\Project\ControlMonitoreoProcesos_KOMATSU\src\main\java\komatsu\corp\procesos\controller\servlets\IniciarToDoServlet.java
+D:\Universidad\Ing. de Sistemas\11 CURSOS NUEVOS\KOMATSU\Project\ControlMonitoreoProcesos_KOMATSU\src\main\java\komatsu\corp\procesos\model\dao\OrdenServicioDAO.java
